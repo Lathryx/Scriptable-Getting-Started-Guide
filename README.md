@@ -40,3 +40,9 @@ Though Scriptable has its own documentation, found [here](https://docs.scriptabl
 - iOS 14 or later. 
 
 Further updates, announcements, or assisstance can be found on the unofficial Scriptable [subreddit](https://reddit.com/r/scriptable/) and [Discord server](https://discord.gg/fsguJthT). 
+
+
+## Helpful Links of Information
+This is a list of links that have beneficial info to help you in your code writing experience.
+
+[List of time zones for use in the Date.toLocaleDateString method](https://gist.github.com/rxaviers/8481876)
