@@ -46,7 +46,8 @@ Though Scriptable has its own documentation, found [here](https://docs.scriptabl
 Further updates, announcements, or assisstance can be found on the unofficial Scriptable [subreddit](https://reddit.com/r/scriptable/) and [Discord server](https://discord.gg/fsguJthT). 
 
 
-## Helpful Links of Information
-This is a list of links that have beneficial info to help you in your code writing experience.
+## Helpful Links of Information  
+Below is a list of links containing information that may help while you are programming. (reference) 
+<!-- This is a list of links that have beneficial info to help you in your code writing experience. --> 
 
-[List of time zones for use in the Date.toLocaleDateString method](https://gist.github.com/rxaviers/8481876)
+- [List of time zones for use in the Date.toLocaleDateString method](https://gist.github.com/rxaviers/8481876). 
