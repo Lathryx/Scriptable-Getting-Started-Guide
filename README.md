@@ -36,6 +36,7 @@ Though Scriptable has its own documentation, found [here](https://docs.scriptabl
 
 **This guide assumes the following:** 
 - A good understanding of Javascript. 
+  - Some good references for Javascript can be found on [w3schools](https://www.w3schools.com/js/js_intro.asp) or [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide). Good beginner courses can be found on [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) or [SoloLearn](https://www.sololearn.com/Course/JavaScript/?ref=app).
 - Access to an iOS device. 
 - iOS 14 or later. 
 
